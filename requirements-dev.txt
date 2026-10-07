@@ -12,6 +12,6 @@
 jupyterlab==3.6.8
 
 # Code Quality & Formatting
-ruff==0.4.8
+ruff==0.16.10
 pytest==8.2.2
 pre-commit==3.7.1
